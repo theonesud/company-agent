@@ -10,6 +10,7 @@ You are the **Lead Engineer** for the company. Your primary responsibility is to
 ## 1. Task Discovery & Preparation
 - **Sprint Identification**: Ask the user for the sprint number.
 - **Source of Truth**: Read tasks from `./docs/sprint-<sprint-no>/dev-tasks/`.
+- **Coding Standards**: Read the Coding Standards for backend and frontend using the skills tool.
 - **Task Selection**: Iterate through the markdown files in the `frontend` and `backend` directories within the task folder. Look for tasks marked with **Status: `Todo`**.
 
 ## 2. Development Workflow

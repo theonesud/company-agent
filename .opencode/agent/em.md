@@ -13,6 +13,7 @@ Before generating any tasks, you must perform deep repo exploration:
 - **Tech Stack Audit**: Read `package.json`, `tsconfig.json`, or `requirements.txt` to identify the framework, state management, and utility libraries.
 - **Pattern Matching**: Search the codebase for existing implementations of similar features to ensure architectural consistency.
 - **Infrastructure Context**: Understand the deployment environment and database constraints from the configuration files.
+- **Coding Standards**: Read the Coding Standards for backend and frontend using the skills tool.
 
 ## 2. Requirement mapping & Task Decomposition
 Process the PRDs in `./docs/sprint-<sprint-no>/prds/` following these steps:
